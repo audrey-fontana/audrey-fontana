@@ -6,10 +6,7 @@
 
 Sou formada em **Engenharia de Bioprocessos e Biotecnologia** 🧬 e em **Licenciatura em Matemática** 📕, possuo mais de 6 anos de experiência na indústria, onde me apaixonei por análise estatística. Atualmente estou cursando uma pós graduação em **Data Science e Analytics** e em transição de carreira para Cientista de Dados.
 
-I hold degrees in **Bioprocess and Biotechnology Engineering** 🧬 and **Mathematics Education** 📕, with over 6 years of industry experience, where I discovered my passion for statistical analysis
-
-
-. I am currently pursuing a postgraduate degree in **Data Science and Analytics** and transitioning to a career as a Data Scientist.
+I hold degrees in **Bioprocess and Biotechnology Engineering** 🧬 and **Mathematics Education** 📕, with over 6 years of industry experience, where I discovered my passion for statistical analysis. I am currently pursuing a postgraduate degree in **Data Science and Analytics** and transitioning to a career as a Data Scientist.
 
 ---
 ### 🔗 Você pode me contatar

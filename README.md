@@ -9,7 +9,7 @@ Sou formada em **Engenharia de Bioprocessos e Biotecnologia** 🧬 e em **Licenc
 I hold degrees in **Bioprocess and Biotechnology Engineering** 🧬 and **Mathematics Education** 📕, with over 6 years of industry experience, where I discovered my passion for data analysis. I am currently pursuing a postgraduate degree in **Data Science and Analytics** and transitioning to a career as a Data Scientist.
 
 ---
-### 🔗 Você pode me contar
+### 🔗 Você pode me contatar
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-fontana/)
 [![Outlook](    https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](audrey.fontana@hotmail.com)
